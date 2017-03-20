@@ -1,7 +1,7 @@
 //Jaclyn Blumenthal
 import java.io.*;
 import java.util.Scanner;
-public class d71
+public class lamp_switch
 {
  public static void main(String[] args) throws IOException
  {
