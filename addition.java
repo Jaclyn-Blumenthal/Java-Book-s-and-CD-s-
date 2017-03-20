@@ -6,7 +6,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 
-public class ex82 extends JApplet implements ActionListener
+public class addition extends JApplet implements ActionListener
 {
   JLabel instruct = new JLabel("Enter an integer and click button");
   Font insfont = new Font("Courier", Font.ITALIC, 18);
