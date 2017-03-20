@@ -2,7 +2,7 @@
 Exercise 9-2 main class
 This program will use a hotel room and suite
 */
-public class ex92c 
+public class hotel_price
 {
  public static void main(String[] args)
    
