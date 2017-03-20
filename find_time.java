@@ -7,7 +7,7 @@
 //NEXT SUMMER USING DATE OBJECTS
 import java.util.Calendar; // import a calendar package
 import java.util.Date; //insert the package
-public class ex7_1
+public class find_time
 {
   public static void main(String[] args)
   {
