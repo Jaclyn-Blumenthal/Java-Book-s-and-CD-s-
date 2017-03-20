@@ -1,7 +1,7 @@
 
 //THIS PROGRAM WILL COUNT VOWELS IN AN ARRAY OF STRINGS
 
-public class ex7_6
+public class compare_names
 { 
   public static void main(String[] args)
   {
