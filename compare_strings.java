@@ -5,7 +5,7 @@
 //THIS PROGRAM WILL COMPARE 2 STRINGS
 
 import java.io.*;
-public class ex7_2
+public class compare_strings
 {
   public static void main(String[] args) throws IOException
   {
