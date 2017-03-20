@@ -7,7 +7,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class ex7_3
+public class full_name
 {
   
   public static void main (String[] args) throws IOException
